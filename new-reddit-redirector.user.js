@@ -5,7 +5,7 @@
 // @description  Redirects from old Reddit to new Reddit
 // @author       Nihaal Sangha
 // @run-at       document-start
-// @updateURL	 https://raw.githubusercontent.com/nihaals/new-reddit-redirector/main/new-reddit-redirector.user.js
+// @updateURL    https://raw.githubusercontent.com/nihaals/new-reddit-redirector/main/new-reddit-redirector.user.js
 // @downloadURL  https://raw.githubusercontent.com/nihaals/new-reddit-redirector/main/new-reddit-redirector.user.js
 // @supportURL   https://github.com/nihaals/new-reddit-redirector/issues
 // @include      *://old.reddit.com/*
